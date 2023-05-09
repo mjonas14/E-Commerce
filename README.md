@@ -2,6 +2,9 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+  Walk-through video: https://drive.google.com/file/d/13ltznQ9PHCFrxKuK3RU8UtkWTnM3i-8a/view
+  Github repository: https://github.com/mjonas14/E-commerce 
+
   ## Description
   The E-commerce Back End code is a back-end code for storing and manipulating the database that stores all of the e-commerce sites data, split into categories, products and tags. 
   
